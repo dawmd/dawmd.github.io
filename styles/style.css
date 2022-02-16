@@ -1,0 +1,133 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@100;200;300;400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@1,200;1,300&display=swap');
+
+body {
+    background-color: #eeeeee;
+    font-family: "Libre Franklin", serif !important;
+    color: black;
+    font-size: large;
+    font-weight: 200;
+    word-wrap: break-word
+}
+
+.nav-bar {
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: rgb(246, 250, 255);
+    border: 1px solid grey;
+    box-shadow: 2px 2px 10px #888888;
+}
+
+.nav-line {
+    position: relative;
+    padding: 10px;
+    text-align: left;
+    font-size: x-large;
+    margin-left: 3.5%;
+    margin-right: 3.5%;
+}
+
+.nav-item {
+    color: inherit;
+    text-decoration: underline 1px;
+}
+
+.nav-item:hover {
+    text-shadow: 1px 1px 5px #7e7e7e;
+}
+
+.content {
+    max-width: 1000px;
+    min-height: 90%;
+    background-color: rgb(246, 250, 255);
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid grey;
+    box-shadow: 5px 10px 18px #888888;
+    text-align: justify;
+    text-justify: inter-word;
+    line-height: 1.4;
+}
+
+.title {
+    position: relative;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: center;
+    border-top: 3px solid grey;
+    border-bottom: 3px solid grey;
+    padding: 5px;
+    font-size: xx-large;
+    font-weight: 500;
+}
+
+.section-title {
+    position: relative;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    text-align: left;
+    border-bottom: 2px solid grey;
+    padding: 5px;
+    font-size: x-large;
+    font-weight: 400;
+}
+
+.section-subtitle {
+    position: relative;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    text-align: left;
+    border-bottom: 2px solid grey;
+    padding: 3px;
+    font-size: large;
+    font-weight: 300;
+}
+
+.section {
+    position: relative;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 5px;
+}
+
+.example {
+    position: relative;
+    border-left: 2px solid grey;
+    padding: 5px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    /* font-style: italic; */
+    background-color: #e4e4e4;
+}
+
+.structure {
+    position: relative;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: x-large;
+}
+
+.structure u {
+    text-decoration: underline 1px;
+}
+
+.section p {
+    margin: 0;
+    padding: 0;
+}
