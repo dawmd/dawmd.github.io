@@ -1,0 +1,3 @@
+# Personal website
+## Content
+The website is only in the beginning phase right now, but it's supposed to consist of more personal projects, not necessarily related to computer science. I'm planning to create a place gathering most frequently arising question regarding the English language with thorough answers. While the are websites aimed specifically for this, I haven't come across an easy-to-navigate one where one could browse through topics and check if there's something they still don't know. This is one of my goals for now.
