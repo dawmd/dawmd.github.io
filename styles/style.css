@@ -53,6 +53,19 @@ body {
     line-height: 1.4;
 }
 
+.table-of-contents {
+    position: relative;
+    max-width: 45%;
+    margin-left: 5%;
+    background-color: rgb(246, 250, 255);
+    border: 1px solid grey;
+}
+
+.table-of-contents a {
+    color: inherit;
+    text-decoration: underline 1px;
+}
+
 .title {
     position: relative;
     width: 90%;
